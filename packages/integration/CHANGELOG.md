@@ -1,5 +1,11 @@
 # @backstage/integration
 
+## 0.3.2
+
+### Patch Changes
+
+- 064c513e1: Properly forward errors that occur when looking up GitLab project IDs.
+
 ## 0.3.1
 
 ### Patch Changes
